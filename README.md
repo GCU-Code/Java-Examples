@@ -1,2 +1,2 @@
-# Java-Examples
-Examples of various Java tasks and quick conversions.
+# Java-Exmples
+Bunch of standard Java Resource code formatted into .md files
